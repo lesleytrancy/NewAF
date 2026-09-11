@@ -1,0 +1,163 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e36]: 企业智能信息流
+        - heading "让重要信息，主动抵达每个人" [level=1] [ref=e40]
+        - paragraph [ref=e41]: 聚合组织动态与行业洞察，并将每条信息无缝带入项目创作。
+      - generic [ref=e42]:
+        - textbox "搜索资讯、项目、部门或关键词" [ref=e46]
+        - button "搜索" [ref=e47] [cursor=pointer]
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - button "推荐" [ref=e50] [cursor=pointer]
+        - button "通知公告" [active] [ref=e51] [cursor=pointer]
+        - button "部门动态" [ref=e53] [cursor=pointer]
+        - button "行业资讯" [ref=e54] [cursor=pointer]
+        - button "技术分享" [ref=e55] [cursor=pointer]
+        - button "项目动态" [ref=e56] [cursor=pointer]
+      - generic [ref=e57]:
+        - button "发布动态" [ref=e58] [cursor=pointer]
+        - button "刷新" [ref=e61] [cursor=pointer]
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - heading "通知公告" [level=2] [ref=e508]
+            - text: 根据岗位、部门与阅读偏好智能排序
+          - button "智能排序" [ref=e72] [cursor=pointer]
+        - generic [ref=e75]:
+          - article [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e308]: 科
+                - strong [ref=e309]: 科研交流办公室
+                - button "+ 关注" [ref=e310] [cursor=pointer]
+                - emphasis [ref=e311]: 2026-06-03
+              - button [ref=e312] [cursor=pointer]:
+                - heading "华鲲振宇&华为深圳政企科研交流会" [level=3] [ref=e313]
+                - paragraph [ref=e314]: Mock 公告：围绕政企科研合作、算力基础设施与联合创新展开交流。
+              - generic [ref=e315]:
+                - generic [ref=e316]: 通知公告
+                - generic [ref=e317]: Mock
+              - generic [ref=e318]:
+                - button "0" [ref=e319] [cursor=pointer]
+                - button "2" [ref=e322] [cursor=pointer]
+                - button "转发" [ref=e325] [cursor=pointer]
+                - button "保存到 Studio" [ref=e332] [cursor=pointer]
+                - button [ref=e336] [cursor=pointer]
+          - article [ref=e341]:
+            - generic [ref=e342]:
+              - generic [ref=e343]:
+                - generic [ref=e344]: 技
+                - strong [ref=e345]: 技术交流中心
+                - button "+ 关注" [ref=e346] [cursor=pointer]
+                - emphasis [ref=e347]: 2026-06-02
+              - button [ref=e348] [cursor=pointer]:
+                - heading "2026空间智能软件技术大会在京开幕" [level=3] [ref=e349]
+                - paragraph [ref=e350]: Mock 公告：聚焦空间智能软件、三维感知与行业应用，分享技术研究和实践案例。
+              - generic [ref=e351]:
+                - generic [ref=e352]: 通知公告
+                - generic [ref=e353]: Mock
+              - generic [ref=e354]:
+                - button "0" [ref=e355] [cursor=pointer]
+                - button "2" [ref=e358] [cursor=pointer]
+                - button "转发" [ref=e361] [cursor=pointer]
+                - button "保存到 Studio" [ref=e368] [cursor=pointer]
+                - button [ref=e372] [cursor=pointer]
+          - article [ref=e377]:
+            - generic [ref=e378]:
+              - generic [ref=e379]:
+                - generic [ref=e380]: 行
+                - strong [ref=e381]: 行业合作中心
+                - button "+ 关注" [ref=e382] [cursor=pointer]
+                - emphasis [ref=e383]: 2026-05-28
+              - button [ref=e384] [cursor=pointer]:
+                - heading "唱想“人工智能+医疗健康”发展会议" [level=3] [ref=e385]
+                - paragraph [ref=e386]: Mock 公告：围绕人工智能在医疗健康领域的应用展开交流，探讨服务创新与协同发展。
+              - generic [ref=e387]:
+                - generic [ref=e388]: 通知公告
+                - generic [ref=e389]: Mock
+              - generic [ref=e390]:
+                - button "0" [ref=e391] [cursor=pointer]
+                - button "2" [ref=e394] [cursor=pointer]
+                - button "转发" [ref=e397] [cursor=pointer]
+                - button "保存到 Studio" [ref=e404] [cursor=pointer]
+                - button [ref=e408] [cursor=pointer]
+      - complementary [ref=e413]:
+        - generic [ref=e414]:
+          - strong [ref=e418]: 我的 Studio 项目
+          - button "基础课程未来学习中心 6 项资料" [ref=e419] [cursor=pointer]:
+            - generic [ref=e421]: 基础课程未来学习中心
+            - emphasis [ref=e422]: 6 项资料
+          - button "星河计划共创 0 项资料" [ref=e425] [cursor=pointer]:
+            - generic [ref=e427]: 星河计划共创
+            - emphasis [ref=e428]: 0 项资料
+          - button "华东区售前资产库 0 项资料" [ref=e431] [cursor=pointer]:
+            - generic [ref=e433]: 华东区售前资产库
+            - emphasis [ref=e434]: 0 项资料
+          - button "进入创作者中心" [ref=e437] [cursor=pointer]
+        - generic [ref=e441]:
+          - generic [ref=e442]:
+            - generic [ref=e443]: 实时热点
+            - button "换一换" [ref=e446] [cursor=pointer]
+          - button "1 GPT 工具调用与长任务能力更新 热" [ref=e447] [cursor=pointer]:
+            - generic [ref=e448]: "1"
+            - generic [ref=e449]: GPT 工具调用与长任务能力更新
+            - emphasis [ref=e450]: 热
+          - button "2 Claude 强化企业文件理解 热" [ref=e451] [cursor=pointer]:
+            - generic [ref=e452]: "2"
+            - generic [ref=e453]: Claude 强化企业文件理解
+            - emphasis [ref=e454]: 热
+          - button "3 Gemini 扩展多模态研究工作流" [ref=e455] [cursor=pointer]:
+            - generic [ref=e456]: "3"
+            - generic [ref=e457]: Gemini 扩展多模态研究工作流
+          - button "4 Llama 发布端侧部署参考" [ref=e458] [cursor=pointer]:
+            - generic [ref=e459]: "4"
+            - generic [ref=e460]: Llama 发布端侧部署参考
+          - button "5 Copilot Studio 更新 Agent 编排" [ref=e461] [cursor=pointer]:
+            - generic [ref=e462]: "5"
+            - generic [ref=e463]: Copilot Studio 更新 Agent 编排
+        - generic [ref=e464]:
+          - generic [ref=e465]:
+            - generic [ref=e466]: 推荐信息源
+            - button "更多" [ref=e470] [cursor=pointer]
+          - generic [ref=e471]:
+            - generic [ref=e472]: O
+            - generic [ref=e473]:
+              - strong [ref=e474]: OpenAI Newsroom
+              - emphasis [ref=e475]: GPT 与开发者生态
+            - button "+ 关注" [ref=e476] [cursor=pointer]
+          - generic [ref=e477]:
+            - generic [ref=e478]: A
+            - generic [ref=e479]:
+              - strong [ref=e480]: Anthropic Updates
+              - emphasis [ref=e481]: Claude 产品与安全
+            - button "+ 关注" [ref=e482] [cursor=pointer]
+          - generic [ref=e483]:
+            - generic [ref=e484]: G
+            - generic [ref=e485]:
+              - strong [ref=e486]: Google DeepMind
+              - emphasis [ref=e487]: Gemini 与前沿研究
+            - button "+ 关注" [ref=e488] [cursor=pointer]
+        - generic [ref=e489]:
+          - generic [ref=e490]:
+            - strong [ref=e496]: 同部门人在看
+            - generic [ref=e497]: 12 人
+          - generic [ref=e498]:
+            - generic [ref=e499]: 林
+            - generic [ref=e500]: 林
+            - generic [ref=e501]: 林
+            - generic [ref=e502]: 林
+            - emphasis [ref=e503]: "+8"
+          - paragraph [ref=e504]: 数字创新中心同事最近集中关注“企业 Agent 落地”与“数据治理”。
+          - button "查看部门阅读榜" [ref=e505] [cursor=pointer]

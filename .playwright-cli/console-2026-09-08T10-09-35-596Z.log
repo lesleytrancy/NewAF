@@ -1,0 +1,15 @@
+[     168ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=d1ef5bd8:14514
+[   52299ms] NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+    at removeNode (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19749:29)
+    at diff (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19834:6)
+    at http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19792:10
+    at Array.forEach (<anonymous>)
+    at commit (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19791:21)
+    at rerender (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19932:2)
+    at Component.setState (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:19955:4)
+    at http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:22198:10
+    at tick (http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:20093:6)
+    at http://localhost:5173/node_modules/.vite/deps/esm-BIxTTwGQ.js?v=d1ef5bd8:20047:7
+[  112377ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=d1ef5bd8:14514
+[  131655ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=d1ef5bd8:14514
+[  166329ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=d1ef5bd8:14514

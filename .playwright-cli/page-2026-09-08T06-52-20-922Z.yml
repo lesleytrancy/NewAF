@@ -1,0 +1,60 @@
+- generic [ref=f6e2]:
+  - banner [ref=f6e3]:
+    - button "AgenticFeed" [ref=f6e4] [cursor=pointer]
+    - navigation [ref=f6e10]:
+      - button "Feed" [ref=f6e11] [cursor=pointer]
+      - button "studio" [ref=f6e12] [cursor=pointer]
+      - button "AI组织" [ref=f6e16] [cursor=pointer]
+    - generic [ref=f6e22]:
+      - button [ref=f6e23] [cursor=pointer]
+      - button "林" [ref=f6e29] [cursor=pointer]
+  - main [ref=f6e400]:
+    - generic [ref=f6e401]:
+      - button "‹ 返回 Feed" [ref=f6e402] [cursor=pointer]
+      - generic [ref=f6e403]:
+        - heading "发布动态" [level=1] [ref=f6e404]
+        - paragraph [ref=f6e405]: 分享项目进展、团队经验或内部通知
+      - generic [ref=f6e406]: 草稿已自动保存
+    - generic [ref=f6e407]:
+      - generic [ref=f6e408]:
+        - textbox "动态标题" [ref=f6e409]:
+          - /placeholder: 请输入标题
+        - generic [ref=f6e410]:
+          - combobox [ref=f6e411]:
+            - option "部门动态" [selected]
+            - option "技术分享"
+            - option "项目动态"
+            - option "通知公告"
+          - combobox [ref=f6e412]:
+            - option "数字创新中心" [selected]
+            - option "华东区域公司"
+            - option "企业内部公开"
+          - button "添加标签" [ref=f6e413] [cursor=pointer]
+        - generic [ref=f6e415]:
+          - strong [ref=f6e416]: Markdown 编辑
+          - generic [ref=f6e417]: 支持标题、粗体、引用和列表
+        - generic [ref=f6e418]:
+          - generic "编辑工具" [ref=f6e419]:
+            - button "粗体" [ref=f6e420] [cursor=pointer]
+            - button "斜体" [ref=f6e423] [cursor=pointer]
+            - button "列表" [ref=f6e426] [cursor=pointer]
+            - button "插入链接" [ref=f6e428] [cursor=pointer]
+            - button "提及成员" [ref=f6e432] [cursor=pointer]
+            - button "添加图片" [ref=f6e436] [cursor=pointer]
+            - button "添加表情" [ref=f6e441] [cursor=pointer]
+          - textbox "正文内容" [ref=f6e445]:
+            - /placeholder: "# 输入正文标题\\n\\n> 添加摘要或引用\\n\\n使用 **粗体** 强调重点，或用列表整理信息。"
+        - generic [ref=f6e446]:
+          - generic [ref=f6e450]:
+            - strong [ref=f6e451]: 添加图片或附件
+            - generic [ref=f6e452]: 支持 PNG、JPG、PDF、DOCX、PPTX，单个文件不超过 50MB
+          - button "选择文件" [ref=f6e453] [cursor=pointer]
+        - generic [ref=f6e454]:
+          - button "舍弃" [ref=f6e455] [cursor=pointer]
+          - button "保存草稿" [ref=f6e456] [cursor=pointer]
+          - button "创建话题" [disabled] [ref=f6e457]
+      - generic [ref=f6e460]:
+        - generic [ref=f6e461]:
+          - strong [ref=f6e462]: 正文预览
+          - generic [ref=f6e463]: 实时查看发布后的排版
+        - generic [ref=f6e464]: 正文将在这里实时预览

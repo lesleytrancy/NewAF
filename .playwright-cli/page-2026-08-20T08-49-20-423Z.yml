@@ -1,0 +1,198 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - button "AgenticFeed" [ref=e5] [cursor=pointer]
+    - navigation "主导航" [ref=e11]:
+      - button "信息 Feed" [ref=e12] [cursor=pointer]
+      - button "创作者中心" [ref=e13] [cursor=pointer]
+    - generic [ref=e17]:
+      - button "通知" [ref=e18] [cursor=pointer]
+      - button "林" [ref=e24] [cursor=pointer]
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]: AI 为你精选
+        - heading "早上好，林小满" [level=1] [ref=e35]
+        - paragraph [ref=e36]: 今天有 18 条与你相关的组织动态与行业洞察
+      - generic [ref=e37]:
+        - generic [ref=e38]: "18"
+        - generic [ref=e39]: 今日更新
+    - generic [ref=e40]:
+      - complementary [ref=e41]:
+        - generic [ref=e42]:
+          - button "为你推荐" [ref=e43] [cursor=pointer]
+          - button "部门动态" [ref=e47] [cursor=pointer]
+          - button "行业资讯" [ref=e52] [cursor=pointer]
+          - button [ref=e56] [cursor=pointer]:
+            - text: 通知公告
+            - emphasis [ref=e60]: "3"
+          - button "技术分享" [ref=e61] [cursor=pointer]
+          - button "项目动态" [ref=e66] [cursor=pointer]
+        - generic [ref=e76]:
+          - strong [ref=e77]: 我的组织
+          - generic [ref=e78]: 集团 / 华东区 / 数字创新中心
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - textbox "搜索动态、资讯或关键词" [ref=e87]
+          - button "筛选" [ref=e88] [cursor=pointer]
+          - button "刷新" [ref=e90] [cursor=pointer]
+          - button "发布动态" [ref=e96] [cursor=pointer]
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - heading "为你推荐" [level=2] [ref=e101]
+            - text: 依据你的岗位、部门与阅读偏好排序
+          - button "推荐说明" [ref=e102] [cursor=pointer]
+        - generic [ref=e105]:
+          - article [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]:
+                - generic [ref=e109]: 数
+                - generic [ref=e110]:
+                  - strong [ref=e111]: 数字创新中心
+                  - generic [ref=e112]: 12分钟前 · 部门动态
+                - button [ref=e113] [cursor=pointer]
+              - heading "“星河计划”进入试点阶段，首批 6 个业务场景开放共创" [level=3] [ref=e118]
+              - paragraph [ref=e119]: 本周完成跨部门评审，围绕客户洞察、方案生成与项目复盘三个方向启动内部试点。欢迎一线同学提交真实业务问题。
+              - generic [ref=e120]:
+                - generic [ref=e121]: 集团动态
+                - generic [ref=e122]: AI 共创
+              - generic [ref=e123]:
+                - button "129" [ref=e124] [cursor=pointer]
+                - button "24" [ref=e127] [cursor=pointer]
+                - button "收藏" [ref=e130] [cursor=pointer]
+                - button "分享" [ref=e133] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e140] [cursor=pointer]
+            - generic [ref=e146]: 部门动态
+          - article [ref=e148]:
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - generic [ref=e151]: 智
+                - generic [ref=e152]:
+                  - strong [ref=e153]: 智能产业观察
+                  - generic [ref=e154]: 35分钟前 · 行业资讯
+                - button [ref=e155] [cursor=pointer]
+              - heading "2026 企业级 Agent 落地观察：从单点工具走向业务协同" [level=3] [ref=e160]
+              - paragraph [ref=e161]: 新一轮企业智能化不再只看模型能力，而是更关注上下文工程、权限治理与业务流程的可持续运营。
+              - generic [ref=e162]:
+                - generic [ref=e163]: 行业报告
+                - generic [ref=e164]: Agent
+              - generic [ref=e165]:
+                - button "86" [ref=e166] [cursor=pointer]
+                - button "12" [ref=e169] [cursor=pointer]
+                - button "已收藏" [ref=e172] [cursor=pointer]
+                - button "分享" [ref=e175] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e182] [cursor=pointer]
+            - generic [ref=e188]: 行业资讯
+          - article [ref=e190]:
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - generic [ref=e193]: 人
+                - generic [ref=e194]:
+                  - strong [ref=e195]: 人力资源部
+                  - generic [ref=e196]: 今天 09:20 · 通知公告
+                - button [ref=e197] [cursor=pointer]
+              - heading "关于开展 2026 年度专业能力认证的通知" [level=3] [ref=e202]
+              - paragraph [ref=e203]: 认证覆盖产品、研发、售前与项目管理四大序列，报名截止时间为 8 月 28 日 18:00。
+              - generic [ref=e204]:
+                - generic [ref=e205]: 重要通知
+                - generic [ref=e206]: 内部
+              - generic [ref=e207]:
+                - button "42" [ref=e208] [cursor=pointer]
+                - button "8" [ref=e211] [cursor=pointer]
+                - button "收藏" [ref=e214] [cursor=pointer]
+                - button "分享" [ref=e217] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e224] [cursor=pointer]
+          - article [ref=e230]:
+            - generic [ref=e231]:
+              - generic [ref=e232]:
+                - generic [ref=e233]: 研
+                - generic [ref=e234]:
+                  - strong [ref=e235]: 研发效能组 · 陈立
+                  - generic [ref=e236]: 昨天 · 技术分享
+                - button [ref=e237] [cursor=pointer]
+              - heading "我们如何构建可审计的企业知识检索链路" [level=3] [ref=e242]
+              - paragraph [ref=e243]: 从切片策略、混合检索到引用溯源，分享团队在真实项目中遇到的三个典型问题与工程取舍。
+              - generic [ref=e244]:
+                - generic [ref=e245]: RAG
+                - generic [ref=e246]: 工程实践
+              - generic [ref=e247]:
+                - button "204" [ref=e248] [cursor=pointer]
+                - button "36" [ref=e251] [cursor=pointer]
+                - button "收藏" [ref=e254] [cursor=pointer]
+                - button "分享" [ref=e257] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e264] [cursor=pointer]
+            - generic [ref=e270]: 技术分享
+          - article [ref=e272]:
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - generic [ref=e275]: 华
+                - generic [ref=e276]:
+                  - strong [ref=e277]: 华东交付中心
+                  - generic [ref=e278]: 昨天 · 项目动态
+                - button [ref=e279] [cursor=pointer]
+              - heading "智慧园区项目完成一期交付，沉淀 12 项标准化方案资产" [level=3] [ref=e284]
+              - paragraph [ref=e285]: 项目组已将核心交付物整理为团队知识资产，包含调研模板、蓝图方案、实施清单与验收手册。
+              - generic [ref=e286]:
+                - generic [ref=e287]: 项目里程碑
+                - generic [ref=e288]: 知识沉淀
+              - generic [ref=e289]:
+                - button "77" [ref=e290] [cursor=pointer]
+                - button "15" [ref=e293] [cursor=pointer]
+                - button "收藏" [ref=e296] [cursor=pointer]
+                - button "分享" [ref=e299] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e306] [cursor=pointer]
+          - article [ref=e312]:
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - generic [ref=e315]: 财
+                - generic [ref=e316]:
+                  - strong [ref=e317]: 财经智库
+                  - generic [ref=e318]: 2天前 · 行业资讯
+                - button [ref=e319] [cursor=pointer]
+              - heading "数据要素市场化进程提速，企业治理能力面临新要求" [level=3] [ref=e324]
+              - paragraph [ref=e325]: 在合规流通与价值释放之间，企业需要重构数据目录、分级授权和全链路审计体系。
+              - generic [ref=e326]:
+                - generic [ref=e327]: 数据治理
+                - generic [ref=e328]: 政策解读
+              - generic [ref=e329]:
+                - button "65" [ref=e330] [cursor=pointer]
+                - button "9" [ref=e333] [cursor=pointer]
+                - button "收藏" [ref=e336] [cursor=pointer]
+                - button "分享" [ref=e339] [cursor=pointer]
+                - button "在 Studio 使用" [ref=e346] [cursor=pointer]
+      - complementary [ref=e352]:
+        - generic [ref=e353]:
+          - generic [ref=e354]:
+            - generic [ref=e355]: 今日早报
+            - button "查看全部" [ref=e359] [cursor=pointer]
+          - strong [ref=e360]: 3 分钟了解今日重点
+          - list [ref=e361]:
+            - listitem [ref=e362]: 集团发布数据资产管理新规
+            - listitem [ref=e363]: 企业 Agent 进入规模化验证期
+            - listitem [ref=e364]: 华东区新增两项标杆案例
+          - button "生成我的个性化早报" [ref=e365] [cursor=pointer]
+        - generic [ref=e369]:
+          - generic [ref=e370]: 热门话题
+          - 'button "1 # Agent 工作流 328 热度" [ref=e375] [cursor=pointer]':
+            - generic [ref=e376]: "1"
+            - text: "# Agent 工作流"
+            - emphasis [ref=e377]: 328 热度
+          - 'button "2 # 数据资产入表 245 热度" [ref=e378] [cursor=pointer]':
+            - generic [ref=e379]: "2"
+            - text: "# 数据资产入表"
+            - emphasis [ref=e380]: 245 热度
+          - 'button "3 # 项目复盘方法 189 热度" [ref=e381] [cursor=pointer]':
+            - generic [ref=e382]: "3"
+            - text: "# 项目复盘方法"
+            - emphasis [ref=e383]: 189 热度
+          - 'button "4 # AI 提效案例 156 热度" [ref=e384] [cursor=pointer]':
+            - generic [ref=e385]: "4"
+            - text: "# AI 提效案例"
+            - emphasis [ref=e386]: 156 热度
+        - generic [ref=e387]:
+          - generic [ref=e388]: 团队在读
+          - generic [ref=e395]:
+            - generic [ref=e396]: 林
+            - generic [ref=e397]: 林
+            - generic [ref=e398]: 林
+            - generic [ref=e399]: 林
+          - paragraph [ref=e400]: 数字创新中心 12 位同事正在阅读行业报告

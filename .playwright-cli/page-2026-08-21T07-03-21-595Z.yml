@@ -1,0 +1,138 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e578]:
+    - complementary [ref=e579]:
+      - generic [ref=e580]:
+        - button "新对话" [ref=e581] [cursor=pointer]
+        - button "新建项目" [ref=e584] [cursor=pointer]
+        - button [ref=e586] [cursor=pointer]
+      - generic [ref=e590]:
+        - generic [ref=e591]: 置顶工作
+        - button "工作周报" [ref=e592] [cursor=pointer]
+        - button "流程图代码生成" [ref=e595] [cursor=pointer]
+      - generic [ref=e600]:
+        - generic [ref=e601]:
+          - generic [ref=e602]: 项目
+          - button [ref=e603] [cursor=pointer]
+        - generic [ref=e605]:
+          - button [ref=e606] [cursor=pointer]:
+            - strong [ref=e609]: 基础课程未来学习中心
+          - generic [ref=e614]:
+            - button "海外 AI 趋势讨论 今天 10:24" [ref=e615] [cursor=pointer]:
+              - generic [ref=e618]: 海外 AI 趋势讨论
+              - generic [ref=e619]: 今天 10:24
+            - button "周报结构优化 昨天" [ref=e620] [cursor=pointer]:
+              - generic [ref=e623]: 周报结构优化
+              - generic [ref=e624]: 昨天
+        - button [ref=e626] [cursor=pointer]:
+          - strong [ref=e629]: 星河计划共创
+        - button [ref=e635] [cursor=pointer]:
+          - strong [ref=e638]: 华东区售前资产库
+      - generic [ref=e643]:
+        - generic [ref=e644]:
+          - generic [ref=e649]: 团队空间
+          - emphasis [ref=e650]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=e653]:
+      - generic [ref=e654]:
+        - generic [ref=e655]:
+          - generic [ref=e656]: 基础课程未来学习中心
+          - strong [ref=e659]: AI 对话
+        - generic [ref=e660]: 2 项来源已启用
+      - generic [ref=e665]:
+        - generic [ref=e671]:
+          - heading "基础课程未来学习中心" [level=1] [ref=e672]
+          - paragraph [ref=e673]: 本次对话已选用 2/6 项项目资料作为来源
+        - generic [ref=e680]:
+          - paragraph [ref=e681]: 我已读取当前项目中的研究资料与项目文档。下面是项目申报材料的初步分析，你可以继续追问或选择生成项。
+          - generic [ref=e682]:
+            - heading "项目材料关键结论" [level=3] [ref=e683]
+            - paragraph [ref=e684]:
+              - strong [ref=e685]: 核心目标：
+              - text: 建设覆盖内容汇聚、智能创作与知识沉淀的一体化工作平台。
+            - heading "建议优先说明" [level=4] [ref=e686]
+            - list [ref=e687]:
+              - listitem [ref=e688]: 项目如何形成统一的业务上下文与权限治理。
+              - listitem [ref=e689]: Feed 信息如何沉淀为可复用的项目资料。
+              - listitem [ref=e690]: 生成成果如何应用企业模板并支持持续迭代。
+            - blockquote [ref=e691]: 如需，我可以直接生成申报书、汇报 PPT 或项目风险清单。
+      - generic [ref=e692]:
+        - textbox "发消息或按住空格说话…" [ref=e693]
+        - generic [ref=e694]:
+          - generic [ref=e695]:
+            - button [ref=e696] [cursor=pointer]
+            - button "图像生成" [ref=e699] [cursor=pointer]
+            - button "PPT 生成" [ref=e704] [cursor=pointer]
+            - button "视频生成" [ref=e708] [cursor=pointer]
+            - button "智能翻译" [ref=e712] [cursor=pointer]
+            - button "报告文档" [ref=e717] [cursor=pointer]
+            - button "信息图表" [ref=e721] [cursor=pointer]
+            - button "思维导图" [ref=e724] [cursor=pointer]
+            - button "音频生成" [ref=e730] [cursor=pointer]
+            - button "交互网页" [ref=e732] [cursor=pointer]
+            - button "更多" [ref=e735] [cursor=pointer]
+          - button [ref=e740] [cursor=pointer]
+    - complementary [ref=e744]:
+      - generic [ref=e745]:
+        - generic [ref=e746]:
+          - strong [ref=e747]: 任务历史
+          - generic [ref=e748]: 5 条任务记录
+        - button "收起任务历史" [ref=e750] [cursor=pointer]
+      - generic [ref=e753]:
+        - generic [ref=e754]:
+          - button "报告文档-2026-08-20 15:34:53 2026年8月20日 15:34 · 3分16秒 已完成" [expanded] [active] [ref=e755] [cursor=pointer]:
+            - generic [ref=e760]:
+              - strong [ref=e761]: 报告文档-2026-08-20 15:34:53
+              - generic [ref=e762]: 2026年8月20日 15:34 · 3分16秒
+            - generic [ref=e763]: 已完成
+          - generic [ref=e823]:
+            - generic [ref=e824]:
+              - generic [ref=e825]:
+                - term [ref=e826]: 生成能力
+                - definition [ref=e827]: 报告文档
+              - generic [ref=e828]:
+                - term [ref=e829]: 项目来源
+                - definition [ref=e830]: 2 项资料
+            - generic [ref=e831]:
+              - text: 任务指令
+              - paragraph [ref=e832]: 基于项目资料生成申报材料分析报告
+            - generic [ref=e837]:
+              - generic [ref=e838]: 生成结果
+              - strong [ref=e839]: 项目申报材料分析报告.docx
+            - generic [ref=e840]:
+              - button "预览结果" [ref=e841] [cursor=pointer]
+              - button "发布至Studio" [ref=e845] [cursor=pointer]
+              - button "再次运行" [ref=e849] [cursor=pointer]
+              - button "删除" [ref=e855] [cursor=pointer]
+        - button "视频脚本-2026-08-20 14:18:06 2026年8月20日 14:18 · 2分7秒 失败" [ref=e768] [cursor=pointer]:
+          - generic [ref=e773]:
+            - strong [ref=e774]: 视频脚本-2026-08-20 14:18:06
+            - generic [ref=e775]: 2026年8月20日 14:18 · 2分7秒
+          - generic [ref=e776]: 失败
+        - button "全图PPT-2026-08-20 11:10:45 2026年8月20日 11:10 · 6分48秒 全图 已完成" [ref=e781] [cursor=pointer]:
+          - generic [ref=e786]:
+            - strong [ref=e787]: 全图PPT-2026-08-20 11:10:45
+            - generic [ref=e788]: 2026年8月20日 11:10 · 6分48秒
+          - generic [ref=e789]:
+            - emphasis [ref=e790]: 全图
+            - generic [ref=e791]: 已完成
+        - button "行业研究报告-生成中 2026年8月20日 刚刚 · 42% 生成中" [ref=e795] [cursor=pointer]:
+          - generic [ref=e800]:
+            - strong [ref=e801]: 行业研究报告-生成中
+            - generic [ref=e802]: 2026年8月20日 刚刚 · 42%
+          - generic [ref=e803]: 生成中
+        - button "可编辑PPT-2026-08-19 11:04 2026年8月20日 昨天 · 4分23秒 可编辑 已完成" [ref=e810] [cursor=pointer]:
+          - generic [ref=e815]:
+            - strong [ref=e816]: 可编辑PPT-2026-08-19 11:04
+            - generic [ref=e817]: 2026年8月20日 昨天 · 4分23秒
+          - generic [ref=e818]:
+            - emphasis [ref=e819]: 可编辑
+            - generic [ref=e820]: 已完成

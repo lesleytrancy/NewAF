@@ -1,0 +1,74 @@
+- generic [ref=f2e2]:
+  - banner [ref=f2e3]:
+    - button "AgenticFeed" [ref=f2e4] [cursor=pointer]
+    - navigation [ref=f2e10]:
+      - button "Feed" [ref=f2e11] [cursor=pointer]
+      - button "studio" [ref=f2e12] [cursor=pointer]
+    - generic [ref=f2e16]:
+      - button [ref=f2e17] [cursor=pointer]
+      - button "林" [ref=f2e23] [cursor=pointer]
+  - main [ref=f2e389]:
+    - complementary [ref=f2e390]:
+      - generic [ref=f2e391]:
+        - button "新对话" [ref=f2e392] [cursor=pointer]
+        - button "新建项目" [ref=f2e395] [cursor=pointer]
+        - button [ref=f2e397] [cursor=pointer]
+      - generic [ref=f2e401]:
+        - generic [ref=f2e402]: 置顶工作
+        - button "工作周报" [ref=f2e403] [cursor=pointer]
+        - button "流程图代码生成" [ref=f2e406] [cursor=pointer]
+      - generic [ref=f2e411]:
+        - generic [ref=f2e412]:
+          - generic [ref=f2e413]: 项目
+          - button [ref=f2e414] [cursor=pointer]
+        - button [ref=f2e417] [cursor=pointer]:
+          - strong [ref=f2e420]: 基础课程未来学习中心
+        - generic [ref=f2e436]:
+          - button [active] [ref=f2e437] [cursor=pointer]:
+            - strong [ref=f2e440]: 星河计划共创
+          - button "共创方案初稿 8月19日" [ref=f2e635] [cursor=pointer]:
+            - generic [ref=f2e638]: 共创方案初稿
+            - generic [ref=f2e639]: 8月19日
+        - button [ref=f2e446] [cursor=pointer]:
+          - strong [ref=f2e449]: 华东区售前资产库
+      - generic [ref=f2e454]:
+        - generic [ref=f2e455]:
+          - generic [ref=f2e460]: 团队空间
+          - emphasis [ref=f2e461]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=f2e464]:
+      - generic [ref=f2e465]:
+        - generic [ref=f2e466]:
+          - generic [ref=f2e467]: 星河计划共创
+          - strong [ref=f2e470]: AI 对话
+        - generic [ref=f2e471]: 0 项来源已启用
+      - generic [ref=f2e476]:
+        - generic [ref=f2e482]:
+          - heading "星河计划共创" [level=1] [ref=f2e640]
+          - paragraph [ref=f2e484]: 本次对话已选用 0/0 项项目资料作为来源
+        - paragraph [ref=f2e492]: 已打开项目对话“共创方案初稿”，你可以继续上次的工作。
+      - generic [ref=f2e503]:
+        - textbox "发消息或按住空格说话…" [ref=f2e504]
+        - generic [ref=f2e505]:
+          - generic [ref=f2e506]:
+            - button [ref=f2e507] [cursor=pointer]
+            - button "图像生成" [ref=f2e510] [cursor=pointer]
+            - button "PPT 生成" [ref=f2e515] [cursor=pointer]
+            - button "视频生成" [ref=f2e519] [cursor=pointer]
+            - button "智能翻译" [ref=f2e523] [cursor=pointer]
+            - button "报告文档" [ref=f2e528] [cursor=pointer]
+            - button "信息图表" [ref=f2e532] [cursor=pointer]
+            - button "思维导图" [ref=f2e535] [cursor=pointer]
+            - button "音频生成" [ref=f2e541] [cursor=pointer]
+            - button "交互网页" [ref=f2e543] [cursor=pointer]
+            - button "更多" [ref=f2e546] [cursor=pointer]
+          - button [ref=f2e551] [cursor=pointer]
+    - complementary [ref=f2e555]:
+      - generic [ref=f2e556]:
+        - generic [ref=f2e557]:
+          - strong [ref=f2e558]: 任务历史
+          - generic [ref=f2e559]: 0 条任务记录
+        - button "收起任务历史" [ref=f2e561] [cursor=pointer]
+      - generic [ref=f2e641]:
+        - strong [ref=f2e646]: 暂无任务记录
+        - generic [ref=f2e647]: 在当前项目对话中发起生成任务后，会显示在这里

@@ -1,0 +1,117 @@
+- generic [ref=f2e2]:
+  - banner [ref=f2e3]:
+    - button "AgenticFeed" [ref=f2e4] [cursor=pointer]
+    - navigation [ref=f2e10]:
+      - button "Feed" [ref=f2e11] [cursor=pointer]
+      - button "studio" [active] [ref=f2e12] [cursor=pointer]
+    - generic [ref=f2e16]:
+      - button [ref=f2e17] [cursor=pointer]
+      - button "林" [ref=f2e23] [cursor=pointer]
+  - main [ref=f2e389]:
+    - complementary [ref=f2e390]:
+      - generic [ref=f2e391]:
+        - button "新对话" [ref=f2e392] [cursor=pointer]
+        - button "新建项目" [ref=f2e395] [cursor=pointer]
+        - button [ref=f2e397] [cursor=pointer]
+      - generic [ref=f2e401]:
+        - generic [ref=f2e402]: 置顶工作
+        - button "工作周报" [ref=f2e403] [cursor=pointer]
+        - button "流程图代码生成" [ref=f2e406] [cursor=pointer]
+      - generic [ref=f2e411]:
+        - generic [ref=f2e412]:
+          - generic [ref=f2e413]: 项目
+          - button [ref=f2e414] [cursor=pointer]
+        - generic [ref=f2e416]:
+          - button [ref=f2e417] [cursor=pointer]:
+            - strong [ref=f2e420]: 基础课程未来学习中心
+          - generic [ref=f2e425]:
+            - button "海外 AI 趋势讨论 今天 10:24" [ref=f2e426] [cursor=pointer]:
+              - generic [ref=f2e429]: 海外 AI 趋势讨论
+              - generic [ref=f2e430]: 今天 10:24
+            - button "周报结构优化 昨天" [ref=f2e431] [cursor=pointer]:
+              - generic [ref=f2e434]: 周报结构优化
+              - generic [ref=f2e435]: 昨天
+        - button [ref=f2e437] [cursor=pointer]:
+          - strong [ref=f2e440]: 星河计划共创
+        - button [ref=f2e446] [cursor=pointer]:
+          - strong [ref=f2e449]: 华东区售前资产库
+      - generic [ref=f2e454]:
+        - generic [ref=f2e455]:
+          - generic [ref=f2e460]: 团队空间
+          - emphasis [ref=f2e461]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=f2e464]:
+      - generic [ref=f2e465]:
+        - generic [ref=f2e466]:
+          - generic [ref=f2e467]: 基础课程未来学习中心
+          - strong [ref=f2e470]: AI 对话
+        - generic [ref=f2e471]: 2 项来源已启用
+      - generic [ref=f2e476]:
+        - generic [ref=f2e482]:
+          - heading "基础课程未来学习中心" [level=1] [ref=f2e483]
+          - paragraph [ref=f2e484]: 本次对话已选用 2/6 项项目资料作为来源
+        - generic [ref=f2e491]:
+          - paragraph [ref=f2e492]: 我已读取当前项目中的研究资料与项目文档。下面是项目申报材料的初步分析，你可以继续追问或选择生成项。
+          - generic [ref=f2e493]:
+            - heading "项目材料关键结论" [level=3] [ref=f2e494]
+            - paragraph [ref=f2e495]:
+              - strong [ref=f2e496]: 核心目标：
+              - text: 建设覆盖内容汇聚、智能创作与知识沉淀的一体化工作平台。
+            - heading "建议优先说明" [level=4] [ref=f2e497]
+            - list [ref=f2e498]:
+              - listitem [ref=f2e499]: 项目如何形成统一的业务上下文与权限治理。
+              - listitem [ref=f2e500]: Feed 信息如何沉淀为可复用的项目资料。
+              - listitem [ref=f2e501]: 生成成果如何应用企业模板并支持持续迭代。
+            - blockquote [ref=f2e502]: 如需，我可以直接生成申报书、汇报 PPT 或项目风险清单。
+      - generic [ref=f2e503]:
+        - textbox "发消息或按住空格说话…" [ref=f2e504]
+        - generic [ref=f2e505]:
+          - generic [ref=f2e506]:
+            - button [ref=f2e507] [cursor=pointer]
+            - button "图像生成" [ref=f2e510] [cursor=pointer]
+            - button "PPT 生成" [ref=f2e515] [cursor=pointer]
+            - button "视频生成" [ref=f2e519] [cursor=pointer]
+            - button "智能翻译" [ref=f2e523] [cursor=pointer]
+            - button "报告文档" [ref=f2e528] [cursor=pointer]
+            - button "信息图表" [ref=f2e532] [cursor=pointer]
+            - button "思维导图" [ref=f2e535] [cursor=pointer]
+            - button "音频生成" [ref=f2e541] [cursor=pointer]
+            - button "交互网页" [ref=f2e543] [cursor=pointer]
+            - button "更多" [ref=f2e546] [cursor=pointer]
+          - button [ref=f2e551] [cursor=pointer]
+    - complementary [ref=f2e555]:
+      - generic [ref=f2e556]:
+        - generic [ref=f2e557]:
+          - strong [ref=f2e558]: 任务历史
+          - generic [ref=f2e559]: 5 条任务记录
+        - button "收起任务历史" [ref=f2e561] [cursor=pointer]
+      - generic [ref=f2e564]:
+        - button "报告文档-2026-08-20 15:34:53 2026年8月20日 15:34 · 3分16秒 已完成" [ref=f2e566] [cursor=pointer]:
+          - generic [ref=f2e571]:
+            - strong [ref=f2e572]: 报告文档-2026-08-20 15:34:53
+            - generic [ref=f2e573]: 2026年8月20日 15:34 · 3分16秒
+          - generic [ref=f2e574]: 已完成
+        - button "视频脚本-2026-08-20 14:18:06 2026年8月20日 14:18 · 2分7秒 失败" [ref=f2e579] [cursor=pointer]:
+          - generic [ref=f2e584]:
+            - strong [ref=f2e585]: 视频脚本-2026-08-20 14:18:06
+            - generic [ref=f2e586]: 2026年8月20日 14:18 · 2分7秒
+          - generic [ref=f2e587]: 失败
+        - button "全图PPT-2026-08-20 11:10:45 2026年8月20日 11:10 · 6分48秒 全图 已完成" [ref=f2e592] [cursor=pointer]:
+          - generic [ref=f2e597]:
+            - strong [ref=f2e598]: 全图PPT-2026-08-20 11:10:45
+            - generic [ref=f2e599]: 2026年8月20日 11:10 · 6分48秒
+          - generic [ref=f2e600]:
+            - emphasis [ref=f2e601]: 全图
+            - generic [ref=f2e602]: 已完成
+        - button "行业研究报告-生成中 2026年8月20日 刚刚 · 42% 生成中" [ref=f2e606] [cursor=pointer]:
+          - generic [ref=f2e611]:
+            - strong [ref=f2e612]: 行业研究报告-生成中
+            - generic [ref=f2e613]: 2026年8月20日 刚刚 · 42%
+          - generic [ref=f2e614]: 生成中
+        - button "可编辑PPT-2026-08-19 11:04 2026年8月20日 昨天 · 4分23秒 可编辑 已完成" [ref=f2e621] [cursor=pointer]:
+          - generic [ref=f2e626]:
+            - strong [ref=f2e627]: 可编辑PPT-2026-08-19 11:04
+            - generic [ref=f2e628]: 2026年8月20日 昨天 · 4分23秒
+          - generic [ref=f2e629]:
+            - emphasis [ref=f2e630]: 可编辑
+            - generic [ref=f2e631]: 已完成

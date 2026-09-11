@@ -1,0 +1,152 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e395]:
+    - complementary [ref=e396]:
+      - generic [ref=e397]:
+        - button "新对话" [ref=e398] [cursor=pointer]
+        - button "新建项目" [ref=e401] [cursor=pointer]
+        - button [ref=e403] [cursor=pointer]
+      - generic [ref=e407]:
+        - generic [ref=e408]: 置顶工作
+        - button "工作周报" [ref=e409] [cursor=pointer]
+        - button "流程图代码生成" [ref=e412] [cursor=pointer]
+      - generic [ref=e417]:
+        - generic [ref=e418]:
+          - generic [ref=e419]: 项目
+          - button [ref=e420] [cursor=pointer]
+        - generic [ref=e422]:
+          - button [ref=e423] [cursor=pointer]:
+            - strong [ref=e426]: 基础课程未来学习中心
+          - generic [ref=e431]:
+            - generic [ref=e432]:
+              - generic [ref=e433]: 对话记录
+              - button "海外 AI 趋势讨论 今天 10:24" [ref=e437] [cursor=pointer]:
+                - generic [ref=e440]: 海外 AI 趋势讨论
+                - generic [ref=e441]: 今天 10:24
+              - button "周报结构优化 昨天" [ref=e442] [cursor=pointer]:
+                - generic [ref=e445]: 周报结构优化
+                - generic [ref=e446]: 昨天
+            - generic [ref=e447]:
+              - generic [ref=e448]:
+                - generic [ref=e449]:
+                  - generic [ref=e452]: 项目文件
+                  - emphasis [ref=e453]: 4/7
+                - button "上传" [active] [ref=e454] [cursor=pointer]
+              - button "全选文件" [ref=e458] [cursor=pointer]
+              - generic [ref=e461]:
+                - button "GPT 系列模型更新开发者工具链，强化长任务与工具调用体验 Feed" [ref=e462] [cursor=pointer]:
+                  - generic [ref=e469]: GPT 系列模型更新开发者工具链，强化长任务与工具调用体验
+                  - generic [ref=e470]: Feed
+                - button "Claude 面向企业知识工作推出新的协作与文件理解能力 Feed" [ref=e471] [cursor=pointer]:
+                  - generic [ref=e476]: Claude 面向企业知识工作推出新的协作与文件理解能力
+                  - generic [ref=e477]: Feed
+                - button "海外AI产品周度观察.pdf 项目" [ref=e478] [cursor=pointer]:
+                  - generic [ref=e483]: 海外AI产品周度观察.pdf
+                  - generic [ref=e484]: 项目
+                - button "项目申报材料初稿.docx 项目" [ref=e485] [cursor=pointer]:
+                  - generic [ref=e492]: 项目申报材料初稿.docx
+                  - generic [ref=e493]: 项目
+                - button "需求调研访谈纪要.docx 项目" [ref=e494] [cursor=pointer]:
+                  - generic [ref=e499]: 需求调研访谈纪要.docx
+                  - generic [ref=e500]: 项目
+                - button "项目预算测算表.xlsx 项目" [ref=e501] [cursor=pointer]:
+                  - generic [ref=e506]: 项目预算测算表.xlsx
+                  - generic [ref=e507]: 项目
+                - button "PRODUCT.md 7 KB" [ref=e708] [cursor=pointer]:
+                  - generic [ref=e715]: PRODUCT.md
+                  - generic [ref=e716]: 7 KB
+        - button [ref=e509] [cursor=pointer]:
+          - strong [ref=e512]: 星河计划共创
+        - button [ref=e518] [cursor=pointer]:
+          - strong [ref=e521]: 华东区售前资产库
+      - generic [ref=e526]:
+        - generic [ref=e527]:
+          - generic [ref=e532]: 团队空间
+          - emphasis [ref=e533]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=e536]:
+      - generic [ref=e537]:
+        - generic [ref=e538]:
+          - generic [ref=e539]: 基础课程未来学习中心
+          - strong [ref=e542]: AI 对话
+        - generic [ref=e543]: 4 项来源已启用
+      - generic [ref=e548]:
+        - generic [ref=e554]:
+          - heading "基础课程未来学习中心" [level=1] [ref=e555]
+          - paragraph [ref=e556]: 本次对话已选用 4/7 项项目资料作为来源
+        - generic [ref=e557]:
+          - generic [ref=e563]:
+            - paragraph [ref=e564]: 我已读取当前项目中的研究资料与项目文档。下面是项目申报材料的初步分析，你可以继续追问或选择生成项。
+            - generic [ref=e565]:
+              - heading "项目材料关键结论" [level=3] [ref=e566]
+              - paragraph [ref=e567]:
+                - strong [ref=e568]: 核心目标：
+                - text: 建设覆盖内容汇聚、智能创作与知识沉淀的一体化工作平台。
+              - heading "建议优先说明" [level=4] [ref=e569]
+              - list [ref=e570]:
+                - listitem [ref=e571]: 项目如何形成统一的业务上下文与权限治理。
+                - listitem [ref=e572]: Feed 信息如何沉淀为可复用的项目资料。
+                - listitem [ref=e573]: 生成成果如何应用企业模板并支持持续迭代。
+              - blockquote [ref=e574]: 如需，我可以直接生成申报书、汇报 PPT 或项目风险清单。
+          - paragraph [ref=e723]: 已上传并选中 1 个本地文件：PRODUCT.md。接下来的对话或内容生成会读取这些文件作为上下文。
+      - generic [ref=e575]:
+        - textbox "发消息或按住空格说话…" [ref=e576]
+        - generic [ref=e577]:
+          - generic [ref=e578]:
+            - button [ref=e579] [cursor=pointer]
+            - button "图像生成" [ref=e582] [cursor=pointer]
+            - button "PPT 生成" [ref=e587] [cursor=pointer]
+            - button "视频生成" [ref=e591] [cursor=pointer]
+            - button "智能翻译" [ref=e595] [cursor=pointer]
+            - button "报告文档" [ref=e600] [cursor=pointer]
+            - button "信息图表" [ref=e604] [cursor=pointer]
+            - button "思维导图" [ref=e607] [cursor=pointer]
+            - button "音频生成" [ref=e613] [cursor=pointer]
+            - button "交互网页" [ref=e615] [cursor=pointer]
+            - button "更多" [ref=e618] [cursor=pointer]
+          - button [ref=e623] [cursor=pointer]
+    - complementary [ref=e627]:
+      - generic [ref=e628]:
+        - generic [ref=e629]:
+          - strong [ref=e630]: 任务历史
+          - generic [ref=e631]: 5 条任务记录
+        - button "收起任务历史" [ref=e633] [cursor=pointer]
+      - generic [ref=e636]:
+        - button "报告文档-2026-08-20 15:34:53 2026年8月20日 15:34 · 3分16秒 已完成" [ref=e638] [cursor=pointer]:
+          - generic [ref=e643]:
+            - strong [ref=e644]: 报告文档-2026-08-20 15:34:53
+            - generic [ref=e645]: 2026年8月20日 15:34 · 3分16秒
+          - generic [ref=e646]: 已完成
+        - button "视频脚本-2026-08-20 14:18:06 2026年8月20日 14:18 · 2分7秒 失败" [ref=e651] [cursor=pointer]:
+          - generic [ref=e656]:
+            - strong [ref=e657]: 视频脚本-2026-08-20 14:18:06
+            - generic [ref=e658]: 2026年8月20日 14:18 · 2分7秒
+          - generic [ref=e659]: 失败
+        - button "全图PPT-2026-08-20 11:10:45 2026年8月20日 11:10 · 6分48秒 全图 已完成" [ref=e664] [cursor=pointer]:
+          - generic [ref=e669]:
+            - strong [ref=e670]: 全图PPT-2026-08-20 11:10:45
+            - generic [ref=e671]: 2026年8月20日 11:10 · 6分48秒
+          - generic [ref=e672]:
+            - emphasis [ref=e673]: 全图
+            - generic [ref=e674]: 已完成
+        - button "行业研究报告-生成中 2026年8月20日 刚刚 · 42% 生成中" [ref=e678] [cursor=pointer]:
+          - generic [ref=e683]:
+            - strong [ref=e684]: 行业研究报告-生成中
+            - generic [ref=e685]: 2026年8月20日 刚刚 · 42%
+          - generic [ref=e686]: 生成中
+        - button "可编辑PPT-2026-08-19 11:04 2026年8月20日 昨天 · 4分23秒 可编辑 已完成" [ref=e693] [cursor=pointer]:
+          - generic [ref=e698]:
+            - strong [ref=e699]: 可编辑PPT-2026-08-19 11:04
+            - generic [ref=e700]: 2026年8月20日 昨天 · 4分23秒
+          - generic [ref=e701]:
+            - emphasis [ref=e702]: 可编辑
+            - generic [ref=e703]: 已完成
+  - generic [ref=e724]: 已上传 1 个文件并加入当前项目

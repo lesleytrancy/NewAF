@@ -1,0 +1,7 @@
+[     150ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=b36613b6:14514
+[     495ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap:0
+[     500ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=80:0
+[     501ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80:0
+[     501ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=1000&q=80:0
+[     501ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=1000&q=80:0
+[  264149ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=d1ef5bd8:14514

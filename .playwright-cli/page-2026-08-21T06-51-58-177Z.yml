@@ -1,0 +1,136 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+    - generic [ref=e16]:
+      - button [ref=e17] [cursor=pointer]
+      - button "林" [ref=e23] [cursor=pointer]
+  - main [ref=e389]:
+    - complementary [ref=e390]:
+      - generic [ref=e391]:
+        - button "新对话" [ref=e392] [cursor=pointer]
+        - button "新建项目" [ref=e395] [cursor=pointer]
+        - button [ref=e397] [cursor=pointer]
+      - generic [ref=e401]:
+        - generic [ref=e402]: 置顶工作
+        - button "工作周报" [ref=e403] [cursor=pointer]
+        - button "流程图代码生成" [ref=e406] [cursor=pointer]
+      - generic [ref=e411]:
+        - generic [ref=e412]:
+          - generic [ref=e413]: 项目
+          - button [ref=e414] [cursor=pointer]
+        - generic [ref=e416]:
+          - button [ref=e417] [cursor=pointer]:
+            - strong [ref=e420]: 基础课程未来学习中心
+          - generic [ref=e425]:
+            - button "海外 AI 趋势讨论 今天 10:24" [ref=e426] [cursor=pointer]:
+              - generic [ref=e429]: 海外 AI 趋势讨论
+              - generic [ref=e430]: 今天 10:24
+            - button "周报结构优化 昨天" [ref=e431] [cursor=pointer]:
+              - generic [ref=e434]: 周报结构优化
+              - generic [ref=e435]: 昨天
+        - button [ref=e437] [cursor=pointer]:
+          - strong [ref=e440]: 星河计划共创
+        - button [ref=e446] [cursor=pointer]:
+          - strong [ref=e449]: 华东区售前资产库
+      - generic [ref=e454]:
+        - generic [ref=e455]:
+          - generic [ref=e460]: 团队空间
+          - emphasis [ref=e461]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=e464]:
+      - generic [ref=e465]:
+        - generic [ref=e466]:
+          - generic [ref=e467]: 基础课程未来学习中心
+          - strong [ref=e470]: AI 对话
+        - generic [ref=e471]: 2 项来源已启用
+      - generic [ref=e476]:
+        - generic [ref=e482]:
+          - heading "基础课程未来学习中心" [level=1] [ref=e483]
+          - paragraph [ref=e484]: 本次对话已选用 2/6 项项目资料作为来源
+        - generic [ref=e491]:
+          - paragraph [ref=e492]: 我已读取当前项目中的研究资料与项目文档。下面是项目申报材料的初步分析，你可以继续追问或选择生成项。
+          - generic [ref=e493]:
+            - heading "项目材料关键结论" [level=3] [ref=e494]
+            - paragraph [ref=e495]:
+              - strong [ref=e496]: 核心目标：
+              - text: 建设覆盖内容汇聚、智能创作与知识沉淀的一体化工作平台。
+            - heading "建议优先说明" [level=4] [ref=e497]
+            - list [ref=e498]:
+              - listitem [ref=e499]: 项目如何形成统一的业务上下文与权限治理。
+              - listitem [ref=e500]: Feed 信息如何沉淀为可复用的项目资料。
+              - listitem [ref=e501]: 生成成果如何应用企业模板并支持持续迭代。
+            - blockquote [ref=e502]: 如需，我可以直接生成申报书、汇报 PPT 或项目风险清单。
+      - generic [ref=e503]:
+        - textbox "发消息或按住空格说话…" [ref=e504]
+        - generic [ref=e505]:
+          - generic [ref=e506]:
+            - button [ref=e507] [cursor=pointer]
+            - button "图像生成" [ref=e510] [cursor=pointer]
+            - button "PPT 生成" [ref=e515] [cursor=pointer]
+            - button "视频生成" [ref=e519] [cursor=pointer]
+            - button "智能翻译" [ref=e523] [cursor=pointer]
+            - button "报告文档" [ref=e528] [cursor=pointer]
+            - button "信息图表" [ref=e532] [cursor=pointer]
+            - button "思维导图" [ref=e535] [cursor=pointer]
+            - button "音频生成" [ref=e541] [cursor=pointer]
+            - button "交互网页" [ref=e543] [cursor=pointer]
+            - button "更多" [ref=e546] [cursor=pointer]
+          - button [ref=e551] [cursor=pointer]
+    - complementary [ref=e555]:
+      - generic [ref=e556]:
+        - generic [ref=e557]:
+          - strong [ref=e558]: 任务历史
+          - generic [ref=e559]: 5 条任务记录
+        - button "收起任务历史" [ref=e561] [cursor=pointer]
+      - generic [ref=e564]:
+        - generic [ref=e565]:
+          - button "报告文档-2026-08-20 15:34:53 2026年8月20日 15:34 · 3分16秒 已完成" [expanded] [active] [ref=e566] [cursor=pointer]:
+            - generic [ref=e571]:
+              - strong [ref=e572]: 报告文档-2026-08-20 15:34:53
+              - generic [ref=e573]: 2026年8月20日 15:34 · 3分16秒
+            - generic [ref=e574]: 已完成
+          - generic [ref=e634]:
+            - generic [ref=e635]:
+              - generic [ref=e636]:
+                - term [ref=e637]: 生成能力
+                - definition [ref=e638]: 报告文档
+              - generic [ref=e639]:
+                - term [ref=e640]: 项目来源
+                - definition [ref=e641]: 2 项资料
+            - generic [ref=e642]:
+              - text: 任务指令
+              - paragraph [ref=e643]: 基于项目资料生成申报材料分析报告
+            - generic [ref=e648]:
+              - generic [ref=e649]: 生成结果
+              - strong [ref=e650]: 项目申报材料分析报告.docx
+            - generic [ref=e651]:
+              - button "预览结果" [ref=e652] [cursor=pointer]
+              - button "再次运行" [ref=e656] [cursor=pointer]
+              - button "删除" [ref=e662] [cursor=pointer]
+        - button "视频脚本-2026-08-20 14:18:06 2026年8月20日 14:18 · 2分7秒 失败" [ref=e579] [cursor=pointer]:
+          - generic [ref=e584]:
+            - strong [ref=e585]: 视频脚本-2026-08-20 14:18:06
+            - generic [ref=e586]: 2026年8月20日 14:18 · 2分7秒
+          - generic [ref=e587]: 失败
+        - button "全图PPT-2026-08-20 11:10:45 2026年8月20日 11:10 · 6分48秒 全图 已完成" [ref=e592] [cursor=pointer]:
+          - generic [ref=e597]:
+            - strong [ref=e598]: 全图PPT-2026-08-20 11:10:45
+            - generic [ref=e599]: 2026年8月20日 11:10 · 6分48秒
+          - generic [ref=e600]:
+            - emphasis [ref=e601]: 全图
+            - generic [ref=e602]: 已完成
+        - button "行业研究报告-生成中 2026年8月20日 刚刚 · 42% 生成中" [ref=e606] [cursor=pointer]:
+          - generic [ref=e611]:
+            - strong [ref=e612]: 行业研究报告-生成中
+            - generic [ref=e613]: 2026年8月20日 刚刚 · 42%
+          - generic [ref=e614]: 生成中
+        - button "可编辑PPT-2026-08-19 11:04 2026年8月20日 昨天 · 4分23秒 可编辑 已完成" [ref=e621] [cursor=pointer]:
+          - generic [ref=e626]:
+            - strong [ref=e627]: 可编辑PPT-2026-08-19 11:04
+            - generic [ref=e628]: 2026年8月20日 昨天 · 4分23秒
+          - generic [ref=e629]:
+            - emphasis [ref=e630]: 可编辑
+            - generic [ref=e631]: 已完成

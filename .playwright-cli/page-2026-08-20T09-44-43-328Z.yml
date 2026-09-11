@@ -1,0 +1,91 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "信息 Feed" [ref=e11] [cursor=pointer]
+      - button "创作者中心" [ref=e12] [cursor=pointer]
+    - generic [ref=e16]:
+      - button [ref=e17] [cursor=pointer]
+      - button "林" [ref=e23] [cursor=pointer]
+  - main [ref=e392]:
+    - complementary [ref=e393]:
+      - generic [ref=e394]:
+        - button "新对话" [active] [ref=e395] [cursor=pointer]
+        - button "新建项目" [ref=e398] [cursor=pointer]
+        - button [ref=e400] [cursor=pointer]
+      - generic [ref=e404]:
+        - generic [ref=e405]: 对话历史
+        - button "新对话 刚刚" [ref=e673] [cursor=pointer]:
+          - generic [ref=e676]: 新对话
+          - generic [ref=e677]: 刚刚
+        - button "海外 AI 趋势讨论 今天 10:24" [ref=e406] [cursor=pointer]:
+          - generic [ref=e409]: 海外 AI 趋势讨论
+          - generic [ref=e410]: 今天 10:24
+        - button "周报结构优化 昨天" [ref=e411] [cursor=pointer]:
+          - generic [ref=e414]: 周报结构优化
+          - generic [ref=e415]: 昨天
+      - generic [ref=e416]:
+        - generic [ref=e417]: 置顶工作
+        - button "工作周报" [ref=e418] [cursor=pointer]
+        - button "流程图代码生成" [ref=e421] [cursor=pointer]
+      - generic [ref=e426]:
+        - generic [ref=e427]:
+          - generic [ref=e428]: 项目
+          - button [ref=e429] [cursor=pointer]
+        - button [ref=e432] [cursor=pointer]:
+          - strong [ref=e435]: 基础课程未来学习中心
+        - button [ref=e477] [cursor=pointer]:
+          - strong [ref=e480]: 星河计划共创
+        - button [ref=e486] [cursor=pointer]:
+          - strong [ref=e489]: 华东区售前资产库
+      - generic [ref=e494]:
+        - generic [ref=e495]:
+          - generic [ref=e500]: 团队空间
+          - emphasis [ref=e501]: 68%
+        - text: 6.8 GB / 10 GB
+    - generic [ref=e504]:
+      - generic [ref=e505]:
+        - generic [ref=e506]:
+          - generic [ref=e507]: 新对话
+          - strong [ref=e510]: AI 对话
+        - generic [ref=e511]: 独立对话
+      - generic [ref=e516]:
+        - generic [ref=e522]:
+          - heading "独立 AI 对话" [level=1] [ref=e680]
+          - paragraph [ref=e524]: 对话单独保存在历史记录中，不归入任何项目
+        - paragraph [ref=e532]: 这是一个独立对话，不归属于任何项目。你可以直接提问、上传文件或选择生成能力。
+      - generic [ref=e543]:
+        - textbox "发消息或按住空格说话…" [ref=e544]
+        - generic [ref=e545]:
+          - generic [ref=e546]:
+            - button [ref=e547] [cursor=pointer]
+            - button "图像生成" [ref=e550] [cursor=pointer]
+            - button "PPT 生成" [ref=e555] [cursor=pointer]
+            - button "视频生成" [ref=e559] [cursor=pointer]
+            - button "智能翻译" [ref=e563] [cursor=pointer]
+            - button "报告文档" [ref=e568] [cursor=pointer]
+            - button "信息图表" [ref=e572] [cursor=pointer]
+            - button "思维导图" [ref=e575] [cursor=pointer]
+            - button "音频生成" [ref=e581] [cursor=pointer]
+            - button "交互网页" [ref=e583] [cursor=pointer]
+            - button "更多" [ref=e586] [cursor=pointer]
+          - button [ref=e591] [cursor=pointer]
+    - complementary [ref=e595]:
+      - generic [ref=e596]:
+        - generic [ref=e597]:
+          - strong [ref=e598]: 对话产物
+          - generic [ref=e599]: 0 项生成结果
+        - generic [ref=e600]:
+          - button "查看任务历史" [ref=e601] [cursor=pointer]
+          - button "分享至Studio" [ref=e606] [cursor=pointer]
+          - button "打包下载已选资产" [ref=e614] [cursor=pointer]
+          - button "收起项目资产" [ref=e618] [cursor=pointer]
+      - generic [ref=e621]:
+        - generic [ref=e622]:
+          - button "全部结果" [ref=e623] [cursor=pointer]
+          - button "文档" [ref=e624] [cursor=pointer]
+          - button "PPT" [ref=e625] [cursor=pointer]
+        - button "全选" [ref=e627] [cursor=pointer]
+      - generic [ref=e681]:
+        - strong [ref=e685]: 暂无生成结果
+        - generic [ref=e686]: 在中间对话中选择生成项开始创作

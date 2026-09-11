@@ -1,0 +1,90 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e395]:
+    - complementary [ref=e396]:
+      - generic [ref=e397]:
+        - generic [ref=e398]:
+          - strong [ref=e399]: 我的 AI 小组
+          - generic [ref=e400]: 已加入 3 个小组
+        - button "加入小组" [ref=e401] [cursor=pointer]
+      - generic [ref=e405]:
+        - button "智 智能产品观察组 4 位成员 · 2 位 AI" [ref=e406] [cursor=pointer]:
+          - generic [ref=e407]: 智
+          - generic [ref=e408]:
+            - strong [ref=e409]: 智能产品观察组
+            - generic [ref=e410]: 4 位成员 · 2 位 AI
+        - button "数 数字创新周报组 3 位成员 · 1 位 AI" [ref=e413] [cursor=pointer]:
+          - generic [ref=e414]: 数
+          - generic [ref=e415]:
+            - strong [ref=e416]: 数字创新周报组
+            - generic [ref=e417]: 3 位成员 · 1 位 AI
+        - button "售 售前方案共创组 5 位成员 · 1 位 AI" [ref=e418] [cursor=pointer]:
+          - generic [ref=e419]: 售
+          - generic [ref=e420]:
+            - strong [ref=e421]: 售前方案共创组
+            - generic [ref=e422]: 5 位成员 · 1 位 AI
+      - generic [ref=e423]: AI 组员仅可读取员工明确授权的 Studio 项目。
+    - generic [ref=e429]:
+      - generic [ref=e430]:
+        - generic [ref=e431]:
+          - generic [ref=e432]: 智
+          - generic [ref=e433]:
+            - generic [ref=e434]: 你是小组 Leader
+            - heading "智能产品观察组" [level=1] [ref=e437]
+            - paragraph [ref=e438]: 跟踪 AI 产品动态，共享研究进展与项目洞察
+        - button "配置 AI 组员" [ref=e439] [cursor=pointer]
+      - generic [ref=e452]:
+        - generic [ref=e457]:
+          - strong [ref=e458]: 小研
+          - generic [ref=e459]: AI 研究助理 · 由 林小满 授权
+        - generic [ref=e460]: 只读 2 个 Studio 项目
+      - generic [ref=e466]:
+        - paragraph [ref=e472]: 大家好，我是小研。我已获得林小满授权，可只读访问指定的 Studio 项目资料。你可以问我项目进度或最近关注的行业消息。
+        - generic [ref=e528]:
+          - generic [ref=e529]: 林
+          - paragraph [ref=e530]: 某项目进度如何了？
+        - paragraph [ref=e536]: “基础课程未来学习中心”目前处于材料分析与成果整理阶段。已归集 6 项项目资料，最近完成了申报材料分析和汇报内容梳理；下一步是确认关键里程碑并补充风险清单。信息来自 林小满 授权的 Studio 项目。
+      - generic [ref=e473]:
+        - generic [ref=e474]:
+          - button "某项目进度如何了？" [ref=e475] [cursor=pointer]
+          - button "你最近在关注什么新消息？" [ref=e476] [cursor=pointer]
+        - generic [ref=e477]:
+          - textbox "询问 小研 项目进度或最新关注…" [ref=e478]
+          - button [ref=e479] [cursor=pointer]
+        - generic [ref=e483]: AI 回答基于已授权数据，重要信息请向项目成员确认。
+    - complementary [ref=e484]:
+      - generic [ref=e485]:
+        - generic [ref=e486]:
+          - strong [ref=e487]: AI 组员
+          - generic [ref=e488]: 2 位在线
+        - button [ref=e489] [cursor=pointer]
+      - generic [ref=e491]:
+        - button [ref=e492] [cursor=pointer]:
+          - generic [ref=e497]:
+            - strong [ref=e498]: 小研
+            - emphasis [ref=e499]: AI 研究助理
+        - button [ref=e501] [cursor=pointer]:
+          - generic [ref=e506]:
+            - strong [ref=e507]: 知更
+            - emphasis [ref=e508]: AI 情报员
+      - generic [ref=e510]:
+        - strong [ref=e514]: 可读取的项目
+        - paragraph [ref=e515]: 由员工 林小满 授权，仅限回答小组内问题。
+        - generic [ref=e516]: 基础课程未来学习中心
+        - generic [ref=e518]: 华东区售前资产库
+      - generic [ref=e520]:
+        - strong [ref=e521]: 小组成员
+        - generic [ref=e522]:
+          - generic [ref=e523]: 林
+          - generic [ref=e524]: 周
+          - generic [ref=e525]: 赵
+          - generic [ref=e526]: 陈
+          - emphasis [ref=e527]: 4 人

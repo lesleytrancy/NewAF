@@ -1,0 +1,222 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - button "AgenticFeed" [ref=f1e4] [cursor=pointer]
+    - navigation [ref=f1e10]:
+      - button "信息 Feed" [ref=f1e11] [cursor=pointer]
+      - button "创作者中心" [ref=f1e12] [cursor=pointer]
+    - generic [ref=f1e16]:
+      - button [ref=f1e17] [cursor=pointer]
+      - button "林" [ref=f1e23] [cursor=pointer]
+  - main [ref=f1e27]:
+    - generic [ref=f1e28]:
+      - generic [ref=f1e29]:
+        - generic [ref=f1e30]: 企业智能信息流
+        - heading "让重要信息，主动抵达每个人" [level=1] [ref=f1e34]
+        - paragraph [ref=f1e35]: 聚合组织动态与行业洞察，并将每条信息无缝带入项目创作。
+      - generic [ref=f1e36]:
+        - textbox "搜索资讯、项目、部门或关键词" [ref=f1e40]
+        - button "搜索" [ref=f1e41] [cursor=pointer]
+    - generic [ref=f1e42]:
+      - generic [ref=f1e43]:
+        - button "推荐" [ref=f1e44] [cursor=pointer]
+        - button "部门动态" [ref=f1e45] [cursor=pointer]
+        - button "行业资讯" [ref=f1e46] [cursor=pointer]
+        - button "通知公告" [ref=f1e47] [cursor=pointer]
+        - button "技术分享" [ref=f1e49] [cursor=pointer]
+        - button "项目动态" [ref=f1e50] [cursor=pointer]
+      - generic [ref=f1e51]:
+        - button "发布动态" [ref=f1e52] [cursor=pointer]
+        - button "刷新" [ref=f1e55] [cursor=pointer]
+    - generic [ref=f1e61]:
+      - generic [ref=f1e62]:
+        - generic [ref=f1e63]:
+          - generic [ref=f1e64]:
+            - heading "推荐" [level=2] [ref=f1e65]
+            - text: 根据岗位、部门与阅读偏好智能排序
+          - button "智能排序" [ref=f1e66] [cursor=pointer]
+        - generic [ref=f1e69]:
+          - article [ref=f1e70]:
+            - generic [ref=f1e71]: 行业资讯
+            - generic [ref=f1e74]:
+              - generic [ref=f1e75]:
+                - generic [ref=f1e76]: O
+                - strong [ref=f1e77]: OpenAI Newsroom
+                - button "+ 关注" [ref=f1e78] [cursor=pointer]
+                - emphasis [ref=f1e79]: 8分钟前
+              - heading "GPT 系列模型更新开发者工具链，强化长任务与工具调用体验" [level=3] [ref=f1e80]
+              - paragraph [ref=f1e81]: Mock 快讯：OpenAI 展示新一代 GPT 模型在代码执行、长上下文和多工具协作方面的能力，企业用户更关注可控性、成本与审计。
+              - generic [ref=f1e82]:
+                - generic [ref=f1e83]: 海外 AI
+                - generic [ref=f1e84]: GPT
+                - generic [ref=f1e85]: Mock
+              - generic [ref=f1e86]:
+                - button "328" [ref=f1e87] [cursor=pointer]
+                - button "46" [ref=f1e90] [cursor=pointer]
+                - button "转发" [ref=f1e93] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e100] [cursor=pointer]
+                - button [ref=f1e104] [cursor=pointer]
+          - article [ref=f1e109]:
+            - generic [ref=f1e110]: 行业资讯
+            - generic [ref=f1e113]:
+              - generic [ref=f1e114]:
+                - generic [ref=f1e115]: A
+                - strong [ref=f1e116]: Anthropic Updates
+                - button "+ 关注" [ref=f1e117] [cursor=pointer]
+                - emphasis [ref=f1e118]: 26分钟前
+              - heading "Claude 面向企业知识工作推出新的协作与文件理解能力" [level=3] [ref=f1e119]
+              - paragraph [ref=f1e120]: Mock 快讯：新版 Claude 更强调复杂文档分析、团队协作和安全边界，并提供面向企业管理员的治理与使用洞察。
+              - generic [ref=f1e121]:
+                - generic [ref=f1e122]: 海外 AI
+                - generic [ref=f1e123]: Claude
+                - generic [ref=f1e124]: Mock
+              - generic [ref=f1e125]:
+                - button "241" [ref=f1e126] [cursor=pointer]
+                - button "31" [ref=f1e129] [cursor=pointer]
+                - button "转发" [ref=f1e132] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e139] [cursor=pointer]
+                - button [ref=f1e143] [cursor=pointer]
+          - article [ref=f1e148]:
+            - generic [ref=f1e149]: 行业资讯
+            - generic [ref=f1e152]:
+              - generic [ref=f1e153]:
+                - generic [ref=f1e154]: G
+                - strong [ref=f1e155]: Google DeepMind
+                - button "+ 关注" [ref=f1e156] [cursor=pointer]
+                - emphasis [ref=f1e157]: 1小时前
+              - heading "Gemini 多模态能力扩展至视频理解与复杂研究工作流" [level=3] [ref=f1e158]
+              - paragraph [ref=f1e159]: Mock 快讯：Gemini 演示跨文本、图像、音频和视频的统一推理流程，并把检索、分析与报告生成组合为连续任务。
+              - generic [ref=f1e160]:
+                - generic [ref=f1e161]: Gemini
+                - generic [ref=f1e162]: 多模态
+                - generic [ref=f1e163]: Mock
+              - generic [ref=f1e164]:
+                - button "198" [ref=f1e165] [cursor=pointer]
+                - button "27" [ref=f1e168] [cursor=pointer]
+                - button "转发" [ref=f1e171] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e178] [cursor=pointer]
+                - button [ref=f1e182] [cursor=pointer]
+          - article [ref=f1e187]:
+            - generic [ref=f1e188]: 技术分享
+            - generic [ref=f1e191]:
+              - generic [ref=f1e192]:
+                - generic [ref=f1e193]: M
+                - strong [ref=f1e194]: Meta AI Research
+                - button "+ 关注" [ref=f1e195] [cursor=pointer]
+                - emphasis [ref=f1e196]: 2小时前
+              - heading "Llama 生态新增轻量推理与端侧部署参考方案" [level=3] [ref=f1e197]
+              - paragraph [ref=f1e198]: Mock 快讯：Meta AI 分享模型压缩、端侧推理和开放生态进展，为数据敏感型企业提供更多本地部署选择。
+              - generic [ref=f1e199]:
+                - generic [ref=f1e200]: Llama
+                - generic [ref=f1e201]: 开源模型
+                - generic [ref=f1e202]: Mock
+              - generic [ref=f1e203]:
+                - button "176" [ref=f1e204] [cursor=pointer]
+                - button "39" [ref=f1e207] [cursor=pointer]
+                - button "转发" [ref=f1e210] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e217] [cursor=pointer]
+                - button [ref=f1e221] [cursor=pointer]
+          - article [ref=f1e226]:
+            - generic [ref=f1e227]:
+              - generic [ref=f1e228]:
+                - generic [ref=f1e229]: M
+                - strong [ref=f1e230]: Microsoft AI Blog
+                - button "+ 关注" [ref=f1e231] [cursor=pointer]
+                - emphasis [ref=f1e232]: 今天 08:40
+              - heading "Copilot Studio 更新多智能体编排与企业连接器能力" [level=3] [ref=f1e233]
+              - paragraph [ref=f1e234]: Mock 快讯：Microsoft 展示跨业务系统的 Agent 编排方式，重点覆盖身份继承、数据连接和任务级观测。
+              - generic [ref=f1e235]:
+                - generic [ref=f1e236]: Copilot
+                - generic [ref=f1e237]: Agent
+                - generic [ref=f1e238]: Mock
+              - generic [ref=f1e239]:
+                - button "154" [ref=f1e240] [cursor=pointer]
+                - button "18" [ref=f1e243] [cursor=pointer]
+                - button "转发" [ref=f1e246] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e253] [cursor=pointer]
+                - button [ref=f1e257] [cursor=pointer]
+          - article [ref=f1e262]:
+            - generic [ref=f1e263]:
+              - generic [ref=f1e264]:
+                - generic [ref=f1e265]: 数
+                - strong [ref=f1e266]: 数字创新中心
+                - button "已关注" [ref=f1e267] [cursor=pointer]
+                - emphasis [ref=f1e268]: 今天 08:15
+              - heading "海外 AI 产品观察小组发布本周跟踪清单" [level=3] [ref=f1e269]
+              - paragraph [ref=f1e270]: 团队将持续跟踪 GPT、Claude、Gemini、Llama 与 Copilot 的产品动态，并评估其对企业内容创作场景的影响。
+              - generic [ref=f1e271]:
+                - generic [ref=f1e272]: 部门动态
+                - generic [ref=f1e273]: 海外 AI
+              - generic [ref=f1e274]:
+                - button "68" [ref=f1e275] [cursor=pointer]
+                - button "11" [ref=f1e278] [cursor=pointer]
+                - button "转发" [ref=f1e281] [cursor=pointer]
+                - button "保存到 Studio" [ref=f1e288] [cursor=pointer]
+                - button [ref=f1e292] [cursor=pointer]
+      - complementary [ref=f1e297]:
+        - generic [ref=f1e298]:
+          - strong [ref=f1e302]: 我的 Studio 项目
+          - button "基础课程未来学习中心 6 项资料" [ref=f1e303] [cursor=pointer]:
+            - generic [ref=f1e305]: 基础课程未来学习中心
+            - emphasis [ref=f1e306]: 6 项资料
+          - button "星河计划共创 0 项资料" [ref=f1e309] [cursor=pointer]:
+            - generic [ref=f1e311]: 星河计划共创
+            - emphasis [ref=f1e312]: 0 项资料
+          - button "华东区售前资产库 0 项资料" [ref=f1e315] [cursor=pointer]:
+            - generic [ref=f1e317]: 华东区售前资产库
+            - emphasis [ref=f1e318]: 0 项资料
+          - button "进入创作者中心" [ref=f1e321] [cursor=pointer]
+        - generic [ref=f1e325]:
+          - generic [ref=f1e326]:
+            - generic [ref=f1e327]: 实时热点
+            - button "换一换" [ref=f1e330] [cursor=pointer]
+          - button "1 GPT 工具调用与长任务能力更新 热" [ref=f1e331] [cursor=pointer]:
+            - generic [ref=f1e332]: "1"
+            - generic [ref=f1e333]: GPT 工具调用与长任务能力更新
+            - emphasis [ref=f1e334]: 热
+          - button "2 Claude 强化企业文件理解 热" [ref=f1e335] [cursor=pointer]:
+            - generic [ref=f1e336]: "2"
+            - generic [ref=f1e337]: Claude 强化企业文件理解
+            - emphasis [ref=f1e338]: 热
+          - button "3 Gemini 扩展多模态研究工作流" [ref=f1e339] [cursor=pointer]:
+            - generic [ref=f1e340]: "3"
+            - generic [ref=f1e341]: Gemini 扩展多模态研究工作流
+          - button "4 Llama 发布端侧部署参考" [ref=f1e342] [cursor=pointer]:
+            - generic [ref=f1e343]: "4"
+            - generic [ref=f1e344]: Llama 发布端侧部署参考
+          - button "5 Copilot Studio 更新 Agent 编排" [ref=f1e345] [cursor=pointer]:
+            - generic [ref=f1e346]: "5"
+            - generic [ref=f1e347]: Copilot Studio 更新 Agent 编排
+        - generic [ref=f1e348]:
+          - generic [ref=f1e349]:
+            - generic [ref=f1e350]: 推荐信息源
+            - button "更多" [ref=f1e354] [cursor=pointer]
+          - generic [ref=f1e355]:
+            - generic [ref=f1e356]: O
+            - generic [ref=f1e357]:
+              - strong [ref=f1e358]: OpenAI Newsroom
+              - emphasis [ref=f1e359]: GPT 与开发者生态
+            - button "+ 关注" [ref=f1e360] [cursor=pointer]
+          - generic [ref=f1e361]:
+            - generic [ref=f1e362]: A
+            - generic [ref=f1e363]:
+              - strong [ref=f1e364]: Anthropic Updates
+              - emphasis [ref=f1e365]: Claude 产品与安全
+            - button "+ 关注" [ref=f1e366] [cursor=pointer]
+          - generic [ref=f1e367]:
+            - generic [ref=f1e368]: G
+            - generic [ref=f1e369]:
+              - strong [ref=f1e370]: Google DeepMind
+              - emphasis [ref=f1e371]: Gemini 与前沿研究
+            - button "+ 关注" [ref=f1e372] [cursor=pointer]
+        - generic [ref=f1e373]:
+          - generic [ref=f1e374]:
+            - strong [ref=f1e380]: 同部门人在看
+            - generic [ref=f1e381]: 12 人
+          - generic [ref=f1e382]:
+            - generic [ref=f1e383]: 林
+            - generic [ref=f1e384]: 林
+            - generic [ref=f1e385]: 林
+            - generic [ref=f1e386]: 林
+            - emphasis [ref=f1e387]: "+8"
+          - paragraph [ref=f1e388]: 数字创新中心同事最近集中关注“企业 Agent 落地”与“数据治理”。
+          - button "查看部门阅读榜" [ref=f1e389] [cursor=pointer]

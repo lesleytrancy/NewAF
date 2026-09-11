@@ -1,0 +1,106 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - button "AgenticFeed" [ref=f1e4] [cursor=pointer]
+    - navigation [ref=f1e10]:
+      - button "信息 Feed" [ref=f1e11] [cursor=pointer]
+      - button "创作者中心" [ref=f1e12] [cursor=pointer]
+    - generic [ref=f1e16]:
+      - button [ref=f1e17] [cursor=pointer]
+      - button "林" [ref=f1e23] [cursor=pointer]
+  - main [ref=f1e416]:
+    - generic [ref=f1e417]:
+      - generic [ref=f1e418]:
+        - generic [ref=f1e419]: 林
+        - generic [ref=f1e420]:
+          - generic [ref=f1e421]: 企业账号
+          - heading "林小满" [level=1] [ref=f1e422]
+          - paragraph [ref=f1e423]: 数字创新中心 · 产品经理 · 工号 AF-8160
+      - button "进入 Studio" [ref=f1e424] [cursor=pointer]
+    - generic [ref=f1e428]:
+      - complementary [ref=f1e429]:
+        - button "个人主页" [ref=f1e430] [cursor=pointer]
+        - button "我的项目 3" [ref=f1e435] [cursor=pointer]:
+          - text: 我的项目
+          - generic [ref=f1e438]: "3"
+        - button "偏好设置" [ref=f1e439] [cursor=pointer]
+        - button "账号与权限" [ref=f1e441] [cursor=pointer]
+        - button "返回信息 Feed" [ref=f1e446] [cursor=pointer]
+      - generic [ref=f1e451]:
+        - generic [ref=f1e452]:
+          - generic [ref=f1e453]:
+            - heading "偏好设置" [level=2] [ref=f1e454]
+            - paragraph [ref=f1e455]: 管理 Feed 的信息来源、推荐依据和触达方式
+          - button "保存设置" [ref=f1e456] [cursor=pointer]
+        - generic [ref=f1e459]:
+          - generic [ref=f1e460]:
+            - generic [ref=f1e467]:
+              - heading "信息源选择" [level=3] [ref=f1e468]
+              - paragraph [ref=f1e469]: 已选择 6 个来源；上线后由信息源接口提供可订阅列表与状态
+            - button "添加自定义来源" [ref=f1e470] [cursor=pointer]
+          - generic [ref=f1e472]:
+            - textbox "搜索名称、域名或简介" [ref=f1e477]: NVIDIA
+            - generic [ref=f1e478]:
+              - button "全部" [ref=f1e479] [cursor=pointer]
+              - button "模型厂商" [ref=f1e480] [cursor=pointer]
+              - button "研究机构" [ref=f1e481] [cursor=pointer]
+              - button "基础设施" [ref=f1e482] [cursor=pointer]
+              - button "开发社区" [ref=f1e483] [cursor=pointer]
+              - button "学术论文" [ref=f1e484] [cursor=pointer]
+              - button "行业媒体" [ref=f1e485] [cursor=pointer]
+          - generic [ref=f1e531]:
+            - generic [ref=f1e532]: "N"
+            - generic [ref=f1e533]:
+              - strong [ref=f1e534]: NVIDIA AI
+              - paragraph [ref=f1e535]: AI 芯片、推理平台与开发工具
+              - generic [ref=f1e536]: nvidia.com · 英文 · 基础设施
+            - button "已添加" [active] [ref=f1e649] [cursor=pointer]
+        - generic [ref=f1e572]:
+          - generic [ref=f1e573]:
+            - generic [ref=f1e578]:
+              - heading "内容与推荐" [level=3] [ref=f1e579]
+              - paragraph [ref=f1e580]: 用于智能排序及同部门趋势融合
+            - generic [ref=f1e581]: 关注主题
+            - generic [ref=f1e582]:
+              - button "大模型" [ref=f1e583] [cursor=pointer]
+              - button "企业 Agent" [ref=f1e586] [cursor=pointer]
+              - button "多模态" [ref=f1e589] [cursor=pointer]
+              - button "AI 编程" [ref=f1e592] [cursor=pointer]
+              - button "开源模型" [ref=f1e593] [cursor=pointer]
+              - button "具身智能" [ref=f1e594] [cursor=pointer]
+              - button "数据治理" [ref=f1e595] [cursor=pointer]
+              - button "AI 安全" [ref=f1e596] [cursor=pointer]
+            - generic [ref=f1e597]: 内容语言
+            - generic [ref=f1e598]:
+              - button "中文优先" [ref=f1e599] [cursor=pointer]
+              - button "中英双语" [ref=f1e600] [cursor=pointer]
+              - button "英文原文" [ref=f1e601] [cursor=pointer]
+            - generic [ref=f1e602]:
+              - generic [ref=f1e603]:
+                - strong [ref=f1e604]: 默认启用智能排序
+                - generic [ref=f1e605]: 结合岗位、阅读历史和关注来源进行排序
+              - button "默认启用智能排序" [ref=f1e606] [cursor=pointer]
+            - generic [ref=f1e608]:
+              - generic [ref=f1e609]:
+                - strong [ref=f1e610]: 参考同部门趋势
+                - generic [ref=f1e611]: 仅使用匿名聚合数据，不展示个人阅读记录
+              - button "参考同部门趋势" [ref=f1e612] [cursor=pointer]
+          - generic [ref=f1e614]:
+            - generic [ref=f1e621]:
+              - heading "通知与简报" [level=3] [ref=f1e622]
+              - paragraph [ref=f1e623]: 控制重要内容的触达频率
+            - generic [ref=f1e624]:
+              - generic [ref=f1e625]:
+                - strong [ref=f1e626]: 重要资讯提醒
+                - generic [ref=f1e627]: 关注来源发布高优先级动态时通知
+              - button "重要资讯提醒" [ref=f1e628] [cursor=pointer]
+            - generic [ref=f1e630]:
+              - generic [ref=f1e631]:
+                - strong [ref=f1e632]: 工作日邮件简报
+                - generic [ref=f1e633]: 每个工作日 09:00 汇总推荐内容
+              - button "工作日邮件简报" [ref=f1e634] [cursor=pointer]
+            - generic [ref=f1e636]:
+              - generic [ref=f1e640]:
+                - strong [ref=f1e641]: 简报接收邮箱
+                - generic [ref=f1e642]: linxiaoman@agenticfeed.cn
+              - button "修改" [ref=f1e643] [cursor=pointer]
+            - generic [ref=f1e644]: 偏好仅用于当前企业账号的推荐与通知，可随时修改或重置。

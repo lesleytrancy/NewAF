@@ -1,0 +1,77 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e404]:
+    - generic [ref=e405]:
+      - button "返回 Feed" [ref=e406] [cursor=pointer]
+      - generic [ref=e409]: Mock 信息 · 行业资讯
+    - generic [ref=e410]:
+      - article [ref=e411]:
+        - generic [ref=e412]:
+          - generic [ref=e413]: O
+          - generic [ref=e414]:
+            - strong [ref=e415]: OpenAI Newsroom
+            - generic [ref=e416]: 8分钟前 · 企业智能信息流
+          - button "+ 关注" [ref=e417] [cursor=pointer]
+        - heading "GPT 系列模型更新开发者工具链，强化长任务与工具调用体验" [level=1] [ref=e418]
+        - generic [ref=e419]: 行业资讯 · Mock 资讯 · 公开可见
+        - paragraph [ref=e420]: Mock 快讯：OpenAI 展示新一代 GPT 模型在代码执行、长上下文和多工具协作方面的能力，企业用户更关注可控性、成本与审计。
+        - paragraph [ref=e421]: 这是一条用于产品演示的 Mock 信息。内容聚合了行业动态、产品变化与组织实践，方便团队在同一个页面阅读、讨论并沉淀到 Studio 项目中。
+        - heading "为什么值得关注" [level=2] [ref=e422]
+        - list [ref=e423]:
+          - listitem [ref=e424]: 模型能力正在从单点问答走向长任务和工具协作。
+          - listitem [ref=e425]: 企业落地需要同时考虑成本、权限与审计。
+          - listitem [ref=e426]: 建议从高频场景开始，逐步验证投入产出。
+        - generic [ref=e427]:
+          - button "328" [ref=e428] [cursor=pointer]
+          - button "46" [ref=e431] [cursor=pointer]
+          - button "收藏" [ref=e434] [cursor=pointer]
+          - button "分享" [ref=e437] [cursor=pointer]
+      - complementary [ref=e444]:
+        - generic [ref=e445]:
+          - heading "评论" [level=2] [ref=e446]
+          - generic [ref=e447]: 46 条讨论
+        - generic [ref=e448]:
+          - generic "编辑工具" [ref=e449]:
+            - button "粗体" [ref=e450] [cursor=pointer]
+            - button "斜体" [ref=e453] [cursor=pointer]
+            - button "列表" [ref=e456] [cursor=pointer]
+            - button "插入链接" [ref=e458] [cursor=pointer]
+            - button "提及成员" [ref=e462] [cursor=pointer]
+            - button "添加图片" [ref=e466] [cursor=pointer]
+            - button "添加表情" [ref=e471] [cursor=pointer]
+          - textbox "评论内容" [ref=e475]:
+            - /placeholder: 说说你的看法…
+        - generic [ref=e476]:
+          - generic [ref=e477]: 文明讨论，友善交流
+          - button "发布评论" [disabled] [ref=e478]
+        - generic [ref=e482]:
+          - generic [ref=e483]:
+            - generic [ref=e484]: 林
+            - generic [ref=e485]:
+              - generic [ref=e486]:
+                - strong [ref=e487]: 周一
+                - generic [ref=e488]: AI 产品组
+                - time [ref=e489]: 刚刚
+              - paragraph [ref=e490]: 这条信息很有启发，尤其是对企业场景的落地建议。
+              - generic [ref=e491]:
+                - button "赞" [ref=e492] [cursor=pointer]
+                - button "回复" [ref=e495] [cursor=pointer]
+          - generic [ref=e496]:
+            - generic [ref=e497]: 林
+            - generic [ref=e498]:
+              - generic [ref=e499]:
+                - strong [ref=e500]: 思冬
+                - generic [ref=e501]: 社区助人之星
+                - time [ref=e502]: 刚刚
+              - paragraph [ref=e503]: 建议继续关注模型成本和权限治理，期待后续更新。
+              - generic [ref=e504]:
+                - button "赞" [ref=e505] [cursor=pointer]
+                - button "回复" [ref=e508] [cursor=pointer]

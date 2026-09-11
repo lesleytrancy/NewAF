@@ -1,0 +1,58 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button "AgenticFeed" [ref=e4] [cursor=pointer]
+    - navigation [ref=e10]:
+      - button "Feed" [ref=e11] [cursor=pointer]
+      - button "studio" [ref=e12] [cursor=pointer]
+      - button "AI组织" [ref=e16] [cursor=pointer]
+    - generic [ref=e22]:
+      - button [ref=e23] [cursor=pointer]
+      - button "林" [ref=e29] [cursor=pointer]
+  - main [ref=e898]:
+    - generic [ref=e899]:
+      - button "‹ 返回 Feed" [ref=e900] [cursor=pointer]
+      - generic [ref=e901]:
+        - heading "发布动态" [level=1] [ref=e902]
+        - paragraph [ref=e903]: 分享项目进展、团队经验或内部通知
+      - generic [ref=e904]: 草稿已自动保存
+    - generic [ref=e905]:
+      - generic [ref=e906]:
+        - generic [ref=e907]:
+          - textbox "动态标题" [ref=e908]:
+            - /placeholder: 填写清晰、具体的标题
+          - generic "编辑工具" [ref=e909]:
+            - button "粗体" [ref=e910] [cursor=pointer]
+            - button "斜体" [ref=e913] [cursor=pointer]
+            - button "列表" [ref=e916] [cursor=pointer]
+            - button "插入链接" [ref=e918] [cursor=pointer]
+            - button "提及成员" [ref=e922] [cursor=pointer]
+            - button "添加图片" [ref=e926] [cursor=pointer]
+            - button "添加表情" [ref=e931] [cursor=pointer]
+          - textbox "正文内容" [ref=e935]:
+            - /placeholder: 输入背景、进展、成果与下一步计划…
+        - generic [ref=e936]:
+          - generic [ref=e940]:
+            - strong [ref=e941]: 添加图片或附件
+            - generic [ref=e942]: 支持 PNG、JPG、PDF、DOCX、PPTX，单个文件不超过 50MB
+          - button "选择文件" [ref=e943] [cursor=pointer]
+      - complementary [ref=e944]:
+        - heading "发布设置" [level=3] [ref=e945]
+        - generic [ref=e946]: 信息来源
+        - generic [ref=e947]:
+          - generic [ref=e948]: 数
+          - generic [ref=e949]:
+            - strong [ref=e950]: 数字创新中心
+            - emphasis [ref=e951]: 林小满 · 产品经理
+        - generic [ref=e952]: 内容分类
+        - combobox [ref=e953]:
+          - option "部门动态" [selected]
+          - option "技术分享"
+          - option "项目动态"
+          - option "通知公告"
+        - generic [ref=e954]: 可见范围
+        - button "数字创新中心" [ref=e955] [cursor=pointer]
+        - button "华东区域公司" [ref=e959] [cursor=pointer]
+        - button "企业内部公开" [ref=e961] [cursor=pointer]
+        - generic [ref=e963]:
+          - button "取消" [ref=e964] [cursor=pointer]
+          - button "发布动态" [disabled] [ref=e965]
